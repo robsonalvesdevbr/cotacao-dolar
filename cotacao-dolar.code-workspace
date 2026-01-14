@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Dolar Client",
+      "path": "dolar-client"
+    },
+    {
+      "name": "Dolar Servers",
+      "path": "dolar-server"
+    }
+  ],
+  "settings": {
+    "files.autoSave": "afterDelay"
+  }
+}
+
